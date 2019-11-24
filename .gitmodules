@@ -1,0 +1,6 @@
+[submodule "boost_prefix"]
+	path = boost_prefix
+	url = https://github.com/taozhijiang/rhel7.x_boost_prefix.git
+[submodule "google_prefix"]
+	path = google_prefix
+	url = https://github.com/taozhijiang/rhel7.x_google_prefix.git
