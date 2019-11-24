@@ -2,6 +2,8 @@
 
 **details:**
 
+- libconfig     v1.7.2   
+
 - curl    	v7.53.1   
 - libevent	v1.4.15   
 - libevent2    	v2.0.22   
