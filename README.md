@@ -19,6 +19,8 @@
 
 - folly        	v0.57.0   
 
+- centos        copied from centos /usr/include
+
 **submodules:**
 - [google's](https://github.com/taozhijiang/rhel7.x_google_prefix)
 - [boost v1.70.0](https://github.com/taozhijiang/rhel7.x_boost_prefix)
